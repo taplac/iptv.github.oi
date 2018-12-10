@@ -1,45 +1,83 @@
-
-ANTV,http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-BALI TV,http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-BERITA SATU,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-CNN INDONESIA,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-DANGDUT,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-DUTA TV BANJARMASIN,http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-ELSHINTA,http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-GLOBAL TV,http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-INDOSIAR ,http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-LIGA GOJEK,http://id1.indostreamingtv.com/live/tv11/index.m3u8
-INTV,http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-JAK TV,http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-JTV SURABAYA,http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-KITANESIA,http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
-KLIK MUSIC,http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/chunklist_w235696523.m3u8
-KOMPAS TV,http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-MALEO CHANNEL,http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
-METRO TV 1,http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-MK TV,http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
-MNC TV 1,http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-NET TV,http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-RCTI 1,http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-RRI NET,http://36.89.47.217:11935/rrinet/live/index.m3u8
-RAJAWALI TV,http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-SALURAN FILM INDONESIA,http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
-SBO TV SURABAYA,http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
-SCTV 1,http://id7.indostreamingtv.com/live/tv2/index.m3u8
-SCTV 2,http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-STAR BRIDGE EDUTAINMENT,http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
-TEGAR TV JOGJA,http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-THE INDONESIA CHANNEL,http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-TRANS TV,http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-TRANS7,http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-TRANS7 HD,http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
-TV ONE 1,http://id1.indostreamingtv.com/live/tv44/index.m3u8
-TV ONE 2,http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-TVKU,http://103.30.1.14:8080/hls/live.m3u8
-TVRI 1,http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-TVRI 2,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-TVRI SPORT,http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-ZEE BIOSKOP,http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="antv"
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="BERITA SATU,
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN INDONESIA,
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DANGDUT,
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 tvg-id="DUTA TV BANJARMASIN,
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ELSHINTA,
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-id="GLOBAL TV,
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="INDOSIAR ,
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="LIGA GOJEK,
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1 tvg-id="INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="JAK TV,
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="JTV SURABAYA,
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="KITANESIA,
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="KLIK MUSIC,
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/chunklist_w235696523.m3u8
+#EXTINF:-1 tvg-id="KOMPAS TV,
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="MALEO CHANNEL,
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="METRO TV 1,
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="MK TV,
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="MNC TV 1,
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="NET TV,
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="RCTI 1,
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="RRI NET,
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="RAJAWALI TV,
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="SALURAN FILM INDONESIA,http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+#EXTINF:-1 tvg-id="SBO TV SURABAYA,http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
+#EXTINF:-1 tvg-id="SCTV 1,
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1 tvg-id="SCTV 2,
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="STAR BRIDGE EDUTAINMENT,
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="TEGAR TV JOGJA,
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 tvg-id="THE INDONESIA CHANNEL,
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-id="TRANS TV,http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TRANS7,
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TRANS7 HD,
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:-1 tvg-id="TV ONE 1,
+http://id1.indostreamingtv.com/live/tv44/index.m3u8
+#EXTINF:-1 tvg-id="TV ONE 2,
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="TVKU,
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVRI 1,
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-id="TVRI 2,
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="TVRI SPORT,
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1 tvg-id="ZEE BIOSKOP,
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 
 
 ANIMAX ID,http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
