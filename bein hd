@@ -1,0 +1,914 @@
+https://gist.githubusercontent.com/johan0077/034074619a36db92686bc2c321f32f75/raw/272b8ad7e25e22adb3207c7e532ed032e57ef4c3/Iptv
+#EXTM3U
+#EXTINF:0,BEIN SPORTS1 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/55.ts
+#EXTINF:0,BEIN SPORTS2 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/41.ts
+#EXTINF:0,BEIN SPORTS3 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/39.ts
+#EXTINF:0,BEIN SPORTS4 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.ts
+#EXTINF:0,BEIN SPORTS5 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/35.ts
+#EXTINF:0,BEIN SPORTS6 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/33.ts
+#EXTINF:0,BEIN SPORTS7 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/31.ts
+#EXTINF:0,BEIN SPORTS8 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/29.ts
+#EXTINF:0,BEIN SPORTS9 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/27.ts
+#EXTINF:0,BEIN SPORTS10 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/53.ts
+#EXTINF:0,BEIN SPORTS 11 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/51.ts
+#EXTINF:0,BEIN SPORTS 12 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/49.ts
+#EXTINF:0,BEIN SPORTS FR 1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/47.ts
+#EXTINF:0,BEIN SPORTS FR 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/45.ts
+#EXTINF:0,BEIN SPORTS FR 3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/43.ts
+#EXTINF:0,BEIN SPORTS 1 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/54.ts
+#EXTINF:0,BEIN SPORTS 2 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/40.ts
+#EXTINF:0,BEIN SPORTS 3 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/38.ts
+#EXTINF:0,BEIN SPORTS 4 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/36.ts
+#EXTINF:0,BEIN SPORTS 5 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/34.ts
+#EXTINF:0,BEIN SPORTS 6 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/32.ts
+#EXTINF:0,BEIN SPORTS 7 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/30.ts
+#EXTINF:0,BEIN SPORTS 8 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/28.ts
+#EXTINF:0,BEIN SPORTS 9 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/26.ts
+#EXTINF:0,BEIN SPORTS 10 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/52.ts
+#EXTINF:0,BEIN SPORTS 11 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/50.ts
+#EXTINF:0,BEIN SPORTS 12 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/48.ts
+#EXTINF:0,BEIN SPORTS 13 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/46.ts
+#EXTINF:0,BEIN SPORTS 14 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/44.ts
+#EXTINF:0,BEIN SPORTS 15 SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/42.ts
+#EXTINF:0,BeIN Movies 1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/60.ts
+#EXTINF:0,BeIN Movies 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/59.ts
+#EXTINF:0,BeIN Movies 3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/58.ts
+#EXTINF:0,BeIN Movies 4
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/57.ts
+#EXTINF:0,Baraeim
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/66.ts
+#EXTINF:0,Bein AMC
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/65.ts
+#EXTINF:0,Bein DMAX
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/64.ts
+#EXTINF:0,Bein DTX
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/63.ts
+#EXTINF:0,Bein Gourmet
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/62.ts
+#EXTINF:0,Bein Junior
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/61.ts
+#EXTINF:0,BeIN Series
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/56.ts
+#EXTINF:0,Dream Works
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/25.ts
+#EXTINF:0,Fatafeat
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/24.ts
+#EXTINF:0,Fox HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/23.ts
+#EXTINF:0,Fox Movies HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/22.ts
+#EXTINF:0,MYHD:Animal_Planet_HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/19.ts
+#EXTINF:0,MYHD:Cinemachi_Kids
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/18.ts
+#EXTINF:0,MYHD:Cinemachi_Movies
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/17.ts
+#EXTINF:0,MYHD:Discovery_Sc
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/16.ts
+#EXTINF:0,MYHD:Fast_FunBOX
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/15.ts
+#EXTINF:0,MYHD:FilmBox_Arthouse
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/14.ts
+#EXTINF:0,MYHD:FilmBox_HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/13.ts
+#EXTINF:0,MYHD:Fix_Foxi
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/12.ts
+#EXTINF:0,MYHD:Fox_Action_Movies
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/11.ts
+#EXTINF:0,MYHD:Fox_Family_Movies
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/10.ts
+#EXTINF:0,MYHD:FX HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/9.ts
+#EXTINF:0,MYHD:GULLI_BIL_ARABIE
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/8.ts
+#EXTINF:0,MYHD:H2_HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/7.ts
+#EXTINF:0,MYHD:my_Cinema
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/6.ts
+#EXTINF:0,Outdoor
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/5.ts
+#EXTINF:0,Travel Channel
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/1.ts
+#EXTINF:0,2M Maroc
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/68.ts
+#EXTINF:0,Al Aoula HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/67.ts
+#EXTINF:0,Al Maghribia
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4177.ts
+#EXTINF:0,MA:Arrabia
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/458
+#EXTINF:0,MA:Arriadia
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/457
+#EXTINF:0,AR:Assadisa
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/456
+#EXTINF:0,MA;Medi1
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/451
+#EXTINF:0,MA:Tamazight Maroc
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/579
+#EXTINF:0,MA:Tele Maroc
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/3611
+#EXTINF:0,TF1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/75.ts
+#EXTINF:0,M6
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/76.ts
+#EXTINF:0,France 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/77.ts
+#EXTINF:0,France 3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/78.ts
+#EXTINF:0,France 4
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/79.ts
+#EXTINF:0,France 5
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/80.ts
+#EXTINF:0,6Ter
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/97.ts
+#EXTINF:0,C8
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/85.ts
+#EXTINF:0,W9
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/86.ts
+#EXTINF:0,NT1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/83.ts
+#EXTINF:0,HD 1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/82.ts
+#EXTINF:0,France O
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/81.ts
+#EXTINF:0,Cherie25
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/96.ts
+#EXTINF:0,Numero 23
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/94.ts
+#EXTINF:0,TMC
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/87.ts
+#EXTINF:0,Arte
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/84.ts
+#EXTINF:0,FR:RMC Decouvert
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/305
+#EXTINF:0,FR:BFM News
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/283
+#EXTINF:0,FR:France Info
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/3688
+#EXTINF:0,FR:Cnews
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/471
+#EXTINF:0,FR:LEQUIPE
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/580
+#EXTINF:0,FR:Gulli
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/289
+#EXTINF:0,FR:Cstar
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/302
+#EXTINF:0,FR:NRJ12
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/285
+#EXTINF:0,Canal+
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/99.ts
+#EXTINF:0,Canal+ Decale
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/100.ts
+#EXTINF:0,Canal+ Cinema
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/101.ts
+#EXTINF:0,FR:Canal+ Family
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/184
+#EXTINF:0,Canal+ Series
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/104.ts
+#EXTINF:0,FR:Canal+ Sport
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/5190
+#EXTINF:0,Al Jazeera
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/109.ts
+#EXTINF:0,Al jazeera Mubasher
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/111.ts
+#EXTINF:0,Al Arabiya
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/110.ts
+#EXTINF:0,AR:Al Arabiya Al hadath
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/636.ts
+#EXTINF:0,CNBC Arabiya
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/113.ts
+#EXTINF:0,MBC1-HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/114.ts
+#EXTINF:0,MBC1-SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4630.ts
+#EXTINF:0,MBC2-HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/115.ts
+#EXTINF:0,MBC2-SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4631.ts
+#EXTINF:0,MBC3-HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/116.ts
+#EXTINF:0,MBC3-SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4632.ts
+#EXTINF:0,MBC4-HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/117.ts
+#EXTINF:0,MBC4-SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4633.ts
+#EXTINF:0,MBC Drama HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/119.ts
+#EXTINF:0,MBC Drama SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4636.ts
+#EXTINF:0,MBC+ Drama
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/122.ts
+#EXTINF:0,MBC Action HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/118.ts
+#EXTINF:0,MBC Action SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4634.ts
+#EXTINF:0,MBC Max HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/120.ts
+#EXTINF:0,MBC Max SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4637.ts
+#EXTINF:0,MBC Bollywood
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/123.ts
+#EXTINF:0,MBC Bollywood SD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4635.ts
+#EXTINF:0,MBC+ Variety HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/121.ts
+#EXTINF:0,MBC Masr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/124.ts
+#EXTINF:0,MBC Masr 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/125.ts
+#EXTINF:0,MBC Sport 1 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/21.ts
+#EXTINF:0,MBC Sport 2 HD
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/20.ts
+#EXTINF:0,Cartoon Network ar
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/106.ts
+#EXTINF:0,Space Toon
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/105.ts
+#EXTINF:0,Toyor Al Janah local
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/107.ts
+#EXTINF:0,Toyor Baby
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/108.ts
+#EXTINF:0,Tiji
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4010.ts
+#EXTINF:0,Piwi
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4008.ts
+#EXTINF:0,Teletoon
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4009.ts
+#EXTINF:0,Gulli Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4004.ts
+#EXTINF:0,Nickelodeon fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4006.ts
+#EXTINF:0,Nickelodeon JR Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4007.ts
+#EXTINF:0,Disney Junior FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4001.ts
+#EXTINF:0,Disney Channel fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/3999.ts
+#EXTINF:0,Disney Cinema Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4000.ts
+#EXTINF:0,Disney XD Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4002.ts
+#EXTINF:0,Game One
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4003.ts
+#EXTINF:0,Mangas
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4005.ts
+#EXTINF:0,Boing Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4013.ts
+#EXTINF:0,Boomerang Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4012.ts
+#EXTINF:0,Canal J
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4014.ts
+#EXTINF:0,Cartoon Network fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4011.ts
+#EXTINF:0,Abu Dhabi Sport 3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4022.ts
+#EXTINF:0,Abu Dhabi Sport 4
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4023.ts
+#EXTINF:0,Abu Dhabi Sport 5
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4024.ts
+#EXTINF:0,Planete+
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4089.ts
+#EXTINF:0,Planete CI
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4093.ts
+#EXTINF:0,Planete AE
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4094.ts
+#EXTINF:0,FR:Nat Geo FR
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/486.ts
+#EXTINF:0,FR:Nat Geo Wild FR
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/485.ts
+#EXTINF:0,Voyage
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4185.ts
+#EXTINF:0,Animaux
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4181.ts
+#EXTINF:0,Ushuaia
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4184.ts
+#EXTINF:0,Discovery FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4178.ts
+#EXTINF:0,Discovery Sc FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4179.ts
+#EXTINF:0,Discovery ID FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4180.ts
+#EXTINF:0,Crime District
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4188.ts
+#EXTINF:0,Rmc Decouverte
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4092.ts
+#EXTINF:0,Trek
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4183.ts
+#EXTINF:0,Sciences & Vie
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4091.ts
+#EXTINF:0,Season
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4090.ts
+#EXTINF:0,Chasse et Peche
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4187.ts
+#EXTINF:0,Histoire
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4182.ts
+#EXTINF:0,Toute L Histoire
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4186.ts
+#EXTINF:0,Action
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4191.ts
+#EXTINF:0,Cine Premier
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4192.ts
+#EXTINF:0,Cine Emotion
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4190.ts
+#EXTINF:0,Cine Frisson
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4195.ts
+#EXTINF:0,Cine Classic
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4193.ts
+#EXTINF:0,Cine Club
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4194.ts
+#EXTINF:0,Cine Famiz
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4275.ts
+#EXTINF:0,Cine FX
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4196.ts
+#EXTINF:0,Cine Polar
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4197.ts
+#EXTINF:0,Tcm Cinema
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4198.ts
+#EXTINF:0,Paramount Channel FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4265.ts
+#EXTINF:0,Ocs Choc
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4199.ts
+#EXTINF:0,Ocs City
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4200.ts
+#EXTINF:0,Ocs Geant
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4201.ts
+#EXTINF:0,Ocs Max
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4189.ts
+#EXTINF:0,Ocs Go Cinema1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4202.ts
+#EXTINF:0,Ocs Go Cinema2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4203.ts
+#EXTINF:0,Ocs Go Cinema3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4204.ts
+#EXTINF:0,Ocs Go Cinema4
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4205.ts
+#EXTINF:0,13  Rue
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4251.ts
+#EXTINF:0,Serie Club
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4278.ts
+#EXTINF:0,SYFY Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4270.ts
+#EXTINF:0,TV Breizh
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4272.ts
+#EXTINF:0,Comedie+
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4252.ts
+#EXTINF:0,Paris Premier
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4277.ts
+#EXTINF:0,RTL9
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4267.ts
+#EXTINF:0,AB1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4273.ts
+#EXTINF:0,E! Entertainement
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4253.ts
+#EXTINF:0,FR:ELLE Girl
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/2164.ts
+#EXTINF:0,FR:TV5 Monde
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1528
+#EXTINF:0,FR:Euronews FR
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/3616.ts
+#EXTINF:0,Infosport
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4262.ts
+#EXTINF:0,SFR Sport 1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.ts
+#EXTINF:0,SFR Sport 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.ts
+#EXTINF:0,AB Moteur
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4274.ts
+#EXTINF:0,Equidia Life
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4255.ts
+#EXTINF:0,FR:Equidia Live
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1409.ts
+#EXTINF:0,FR:Eurosport 1 FR
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/572.ts
+#EXTINF:0,Eurosport 2 FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4257.ts
+#EXTINF:0,Extreme Sport FR
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4259.ts
+#EXTINF:0,Golf Channel
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4261.ts
+#EXTINF:0,Golf+ Fr
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4260.ts
+#EXTINF:0,MCM
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4263.ts
+#EXTINF:0,FR:MTV France
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1030.ts
+#EXTINF:0,RFM
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4266.ts
+#EXTINF:0,Trace Urban
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4271.ts
+#EXTINF:0,A1 Jordan
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1406.ts
+#EXTINF:0,Al Jadeed
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4347.ts
+#EXTINF:0,AR:Al Manar
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/543.ts
+#EXTINF:0,AR:Al Mayadeen
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/544.ts
+#EXTINF:0,AR:LBC
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/591.ts
+#EXTINF:0,LDC
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4351.ts
+#EXTINF:0,AR:MTV Leb
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/546.ts
+#EXTINF:0,AR:Future TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/542.ts
+#EXTINF:0,NBN
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4353.ts
+#EXTINF:0,OTV
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4354.ts
+#EXTINF:0,Al Aqsa
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4355.ts
+#EXTINF:0,Al Quds
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4356.ts
+#EXTINF:0,Falestinia
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4357.ts
+#EXTINF:0,Palestine
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4359.ts
+#EXTINF:0,AR:Palestine Live
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1495.ts
+#EXTINF:0,AR:Palestine Today
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/875.ts
+#EXTINF:0,Prime
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4358.ts
+#EXTINF:0,AR:Jordan TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1478.ts
+#EXTINF:0,AR:Jordan Sport
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1514.ts
+#EXTINF:0,Al Ordon Alyawm
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4363.ts
+#EXTINF:0,aR:Zweina Baladna
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1006.ts
+#EXTINF:0,Syria
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4338.ts
+#EXTINF:0,Syria Al Ekhbaria
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4339.ts
+#EXTINF:0,Syria Drama
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4345.ts
+#EXTINF:0,Syria Education
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4340.ts
+#EXTINF:0,AR:Sama TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/935.ts
+#EXTINF:0,Halab Today
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4341.ts
+#EXTINF:0,Nour El Sham
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4342.ts
+#EXTINF:0,Orient
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4343.ts
+#EXTINF:0,DMC Drama
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4287.ts
+#EXTINF:0,DMC Sport
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4286.ts
+#EXTINF:0,ON Sport
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4288.ts
+#EXTINF:0,Al Fujaira
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4289.ts
+#EXTINF:0,Rotana Aflam
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4285.ts
+#EXTINF:0,Rotana Cinema
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4284.ts
+#EXTINF:0,Rotana Classic
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4283.ts
+#EXTINF:0,Rotana Drama
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4280.ts
+#EXTINF:0,Rotana Khaligia
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4281.ts
+#EXTINF:0,Rotana Musica
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4282.ts
+#EXTINF:0,LA 1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4383.ts
+#EXTINF:0,LA 2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4384.ts
+#EXTINF:0,Antena3
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4368.ts
+#EXTINF:0,Cuatro
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4376.ts
+#EXTINF:0,Tele5
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4396.ts
+#EXTINF:0,La Sexta
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4382.ts
+#EXTINF:0,#0
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4367.ts
+#EXTINF:0,FDF
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4379.ts
+#EXTINF:0,Canal 24 Horas
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4372.ts
+#EXTINF:0,Movistar Accion
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4385.ts
+#EXTINF:0,Movistar Comedia
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4386.ts
+#EXTINF:0,Movistar Dcine
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4387.ts
+#EXTINF:0,Movistar Estrenos
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4390.ts
+#EXTINF:0,Movistar Series
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4392.ts
+#EXTINF:0,Boing es
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4375.ts
+#EXTINF:0,Clan TV
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4374.ts
+#EXTINF:0,Disney ES
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4378.ts
+#EXTINF:0,Bein La Liga
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4370.ts
+#EXTINF:0,Bein Sports ES
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4371.ts
+#EXTINF:0,Gol TV
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4380.ts
+#EXTINF:0,la Liga  tv
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4381.ts
+#EXTINF:0,Movistar Deportes1
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4388.ts
+#EXTINF:0,Movistar Deportes2
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4389.ts
+#EXTINF:0,Movistar Futbol
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4391.ts
+#EXTINF:0,Barca TV
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4369.ts
+#EXTINF:0,Real Madrid TV
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4395.ts
+#EXTINF:0,Caza Y Pesca
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4373.ts
+#EXTINF:0,Discovery Es
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4377.ts
+#EXTINF:0,Nat geo es
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4393.ts
+#EXTINF:0,Nat Geo Wild es
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4394.ts
+#EXTINF:0,Viajar
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4397.ts
+#EXTINF:0,Test
+#EXTGRP:unsorted
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4416.ts
+#EXTINF:0,DZ-Entv
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/569.ts
+#EXTINF:0,DZ-Canal Algerie
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/427.ts
+#EXTINF:0,DZ-Algerie 3
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/432.ts
+#EXTINF:0,DZ-AL Haddaf
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/559.ts
+#EXTINF:0,DZ-Dzair News
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/565.ts
+#EXTINF:0,DZ-Dzair TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/446.ts
+#EXTINF:0,DZ-Echorouk TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/425.ts
+#EXTINF:0,DZ-Echourouk News
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/560.ts
+#EXTINF:0,DZ-Ennahar tv
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/426.ts
+#EXTINF:0,DZ-Samira TV
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/449.ts
+#EXTINF:0,TN-National1
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/434.ts
+#EXTINF:0,TN-National2
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/435.ts
+#EXTINF:0,TN-AlhiwarTN
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/445.ts
+#EXTINF:0,TN-Ettasia
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/438.ts
+#EXTINF:0,TN-Hannibal
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/437.ts
+#EXTINF:0,TN-Mtunisia
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1418.ts
+#EXTINF:0,TN-Nessma
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/436.ts
+#EXTINF:0,TN-Tounesna
+#EXTGRP:unsorted
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/443.ts
